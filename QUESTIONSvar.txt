@@ -1,0 +1,29 @@
+ID,Questions,Options,Correction						
+1.,  Which of the following is not a source of data collection?,A. Observation  B. Interview  C. Questionnaire  D. Classification,D					
+2.,  Facebook, Twitter and WhatsApp are examples of?,A. Social Media  B. Social Communication C. Networking Media D. Search Engines,A						
+3.,  Which of the following is secondary storage device?,A. RAM   B. Bubble memory C. Floppy DIsk  D. EPROM,C						
+4.,  The main component of the first generation computer was?,	A. Microchip   B. Transistor  C. Integrated Circuit  D. Electronic Valve,B					
+5.,  Magnetic Ink Charcter Recognition is applied on?,	A. Voice Recognition  B. Mobile Devices  C. Data Capturing Devices  D. Bank Cheques,D					
+6.,  Which of the following parts of the computer ensures the smooth operation of its hardware?,A. Main Memory  B. Control Unit  C. Auxiliary Age  D. Arithmetic and Logic Unit,B
+7.,  Basic computer operations include the following except?,A. Control  B. Input  C. Output  D. Process,  	A						
+8.,  Which of the following sources of information is received by the user in visual mode only?,A. Television  B. Radio  C. Photograph  D. Computer,C					
+9., Which of the options A to D is not a medium of information transmission?,A. Cable  B. Satellite  C. TV Set  D. Wireless Transmission,C						
+10.,  Graphics can be captured using the following devices except,A. Webcam  B. Scanners  C. Joystick  D. Digital Camera,C						
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+	 							

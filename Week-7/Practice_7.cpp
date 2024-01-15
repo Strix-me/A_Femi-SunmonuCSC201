@@ -21,6 +21,6 @@ int main()
     if (g1.empty() == false)
         cout<<"\nVector is not empty";
     else
-        cout <<"\nVectoe is not Empty";
+        cout <<"\nVector is not Empty";
     cout
 }

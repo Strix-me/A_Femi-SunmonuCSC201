@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../Com Sci Personal"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xstring": "cpp",
+			"*.tcc": "cpp",
+			"string": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
